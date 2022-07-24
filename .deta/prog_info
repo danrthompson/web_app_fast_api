@@ -1,0 +1,1 @@
+{"id":"955d3b00-8c02-457f-86bb-82b568b8cfd1","space":27168,"runtime":"python3.9","name":"fast_api_web_app","path":"3tqj8i","project":"b0hgqlks","account":"144798365827","region":"us-east-1","deps":["fastapi","black","deta","flake8","mypy-extensions","PyYAML","requests","uvicorn"],"envs":null,"public":true,"log_level":"debug","cron":""}
