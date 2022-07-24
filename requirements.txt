@@ -2,4 +2,5 @@ fastapi
 mypy-extensions
 requests
 uvicorn
-starlette
+starlette==0.19.1
+pydantic
