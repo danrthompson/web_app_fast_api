@@ -1,3 +1,5 @@
 black
 deta
 flake8
+fastapi[all]
+mypy-extensions
